@@ -1,6 +1,6 @@
 import type { AppProps } from "next/app";
 import "../styles/globals.css";
-import Navbar from "src/components/Navbar";
+import Navbar from "../components/Navbar";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";

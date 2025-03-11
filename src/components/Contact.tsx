@@ -59,9 +59,9 @@ const Contact = () => {
 								<div>
 									<Image
 										className="rounded-xl hover:scale-105 ease-in duration-300"
-										src="/public/assets/contact.jpg"
+										src="/assets/contact.jpg"
 										alt="/"
-										loading="lazy"
+										layout="fill"
 									/>
 								</div>
 								<div>

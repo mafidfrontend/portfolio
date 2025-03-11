@@ -1,7 +1,7 @@
 import Head from "next/head";
-import About from "src/components/About";
-import Main from "src/components/Main";
-import Contact from "src/components/Contact";
+import About from "../components/About";
+import Main from "../components/Main";
+import Contact from "../components/Contact";
 
 export default function Home() {
 	return (

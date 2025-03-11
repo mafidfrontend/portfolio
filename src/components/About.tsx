@@ -37,10 +37,11 @@ const About = () => {
                 <div className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
                     <div data-aos="fade-up" data-aos-duration="1000">
                         <Image
-                            src="/public/assets/about.jpeg"
+                            src="/assets/about.jpeg"
                             className="rounded-xl "
                             alt="/"
-                            height={800}
+                            height={500}
+                            width={500}
                             loading="lazy"
                         />
                     </div>
